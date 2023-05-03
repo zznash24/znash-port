@@ -3314,3 +3314,16 @@ input, select, textarea {
 			}
 
 	}
+
+	#HCJ-logo {
+		height:100px;
+	}
+	#react-logo {
+		height:100px;
+	}
+	#sql-logo {
+		height:200px;
+	}
+	#node-logo {
+		height:175px;
+	}
